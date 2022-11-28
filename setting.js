@@ -1,29 +1,29 @@
  {
- "contactOwner": "Nomor ke 1 lu",
- "contactOwner2": "Nomor ke 2 lu", 
- "botName": "Nama Bot",
- "ownerName": "Nama lu",
+ "contactOwner": "6285891318105",
+ "contactOwner2": "6285891318105", 
+ "botName": "Puan BOT",
+ "ownerName": "Gesha (Owner)",
  "sessionName": "session",
- "footer": "Nama Bot © 2022",
- "packname": "Seterah",
- "author": "Seterah",
+ "footer": "Puan BOT © 2022",
+ "packname": "Puan BOT",
+ "author": "So bakso",
  
- "youtube": "YouTube lu kalo ga punya kasih tanda min (-) ajah",
- "github": "Github lu",
- "instagram": "Instagram lu",
- "tiktok": "Tiktok lu",
- "website": "Website lu",
- "email": "Email lu",
- "gender": "Gender/Alat kelamin lu",
- "agama": "Agama lu",
- "tanggallahir": "Tanggal lahir lu",
- "umur": "Umur lu",
- "kelas": "Kelas lu",
- "hobi": "Hobi lu",
- "sifat": "Sifat lu",
- "tinggal": "Tempat tinggal lu",
- "suka": "Lu suka apa? ",
- "benci": "Lu benci apa? ",
+ "youtube": "Kizaru",
+ "github": "-",
+ "instagram": "geshrfd",
+ "tiktok": "Zerobrodi",
+ "website": "coming soon ",
+ "email": "Kepo",
+ "gender": "Laki",
+ "agama": "Islam Alhamdulilah",
+ "tanggallahir": "2006/27/? ",
+ "umur": "18",
+ "kelas": "12",
+ "hobi": "Nyoli 🗿",
+ "sifat": "Ramah🗿",
+ "tinggal": "Bumi 🗿",
+ "suka": "Suka Kamu",
+ "benci": "Benci Banteng 🗿",
  
   "login_di": "https://alphabot-api.herokuapp.com",
   "apikey_alpha": "APIKEY LU", 
@@ -39,12 +39,12 @@
  
  "payment": {
     "qris": {
-      "link_nya": "Link gambar qris lu", 
-      "atas_nama": "Nama lu" 
+      "link_nya": "-", 
+      "atas_nama": "-" 
     },
     "dana": {
-      "nomer": "Nomor dana lu", 
-      "atas_nama": "Nama lu" 
+      "nomer": "085891318105", 
+      "atas_nama": "Gesha" 
     }},
     
   "pathQris": "./temp/media/qris.jpg", 
